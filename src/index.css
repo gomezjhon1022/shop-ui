@@ -2,4 +2,26 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Quicksand', sans-serif;
+}
+
+:root {
+  --primary-color:#007bff;
+  --black-ligth:#2D2D2D;
+  --secondary-color:#C2C2C2;
+  --withe-2: #ffffff;
+  --blue-2:#26547C;
+  --gray-light: #e9ecef;
+  --red: #FF6F61;
+  --red-2:#BC4749;
+  --yellow: #FFD166;
+  --yellow-2:#FFD700;
+  --green:#06D6A0;
+  --green-2:#6A994E;
+  --beige: #F2E8CF;
+  --blaco-deep: #1E1E1E;
+
+  --sm: 12px;
+  --md: 16px;
+  --lg: 18px;
 }
