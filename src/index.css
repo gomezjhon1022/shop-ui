@@ -9,7 +9,8 @@
   --primary-color:#007bff;
   --black-ligth:#2D2D2D;
   --secondary-color:#C2C2C2;
-  --withe-2: #ffffff;
+  --text-input-field: #f7f7f7;
+  --white: #ffffff;
   --blue-2:#26547C;
   --gray-light: #e9ecef;
   --red: #FF6F61;
@@ -21,7 +22,7 @@
   --beige: #F2E8CF;
   --blaco-deep: #1E1E1E;
 
-  --sm: 12px;
+  --sm: 14px;
   --md: 16px;
   --lg: 18px;
 }
