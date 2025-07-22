@@ -1,10 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Quicksand', sans-serif;
-}
-
 :root {
   --primary-color:#007bff;
   --black-ligth:#2D2D2D;
@@ -25,4 +18,11 @@
   --sm: 14px;
   --md: 16px;
   --lg: 18px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Quicksand', sans-serif;
 }
