@@ -40,7 +40,7 @@ function SignUp(){
       </h1>
       <form className="sign-up__form">
         <div>
-          <label htmlFor="userName" className='sign-up__label'>UserName</label>
+          <label htmlFor="userName" className='sign-up__label'>Username</label>
           <input id="userName" value={userName} className='sign-up__input' placeholder='jhon' onChange={(e)=> setUserName(e.target.value.toLowerCase().trim())}></input>
           <label htmlFor="email" className='sign-up__label'>Email</label>
           <input id="email" value={email} type="email" className='sign-up__input' placeholder='jhon@example.com' onChange={(e)=>setEmail(e.target.value)}></input>
